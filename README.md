@@ -4,8 +4,9 @@ Este é um aplicativo de carrinho de compras desenvolvido em **React Native** co
 
 ## 🚀 Tecnologias Utilizadas
 
-- [React Native](https://reactnative.dev/)
-- [React Navigation](https://reactnavigation.org/)
+- <div style="display: inline-block; margin-right: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/React_Native_Logo.png" alt="React Native" width="30" height="30"></div> **React Native**
+- <div style="display: inline-block; margin-right: 10px;"><img src="https://reactnavigation.org/static/images/logo-website.png" alt="React Navigation" width="30" height="30"></div> **React Navigation**
+
 
 ## 📌 Funcionalidades
 
